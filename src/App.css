@@ -1,0 +1,22 @@
+/*.App {
+    display: flex;
+    flex-direction: column;
+}
+*/
+
+header {
+    background-color: #2b3e4f;
+    /*
+    flex: 0 1 auto;
+    */
+}
+
+.container {
+    margin: 0 15%;
+}
+
+/*
+main {
+   flex: 1 1 auto;
+}
+*/
